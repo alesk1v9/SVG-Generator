@@ -23,7 +23,8 @@
 
   Answer the prompts. Once all the prompts are completed, the generator will create a logo.svg file
   
-
+  ## Links 
+  A walkthrough video that demonstrates the functionality of the application and passing tests: https://drive.google.com/file/d/1hJ-n4Gtdt5sneLoIv1lRWwbFjDk2gMLq/view
    
   
   ## Contributing
